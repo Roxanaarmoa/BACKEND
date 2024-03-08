@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Procesador AMD",
+    "description": "Ryzen 3",
+    "price": 200000,
+    "img": "img",
+    "code": "30",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Procesador AMD",
+    "description": "Ryzen 5",
+    "price": 280000,
+    "img": "img",
+    "code": "20",
+    "stock": 5
+  }
+]

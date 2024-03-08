@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "title": "Procesador AMD",
+    "description": "Ryzen 5",
+    "price": 280000,
+    "img": "img",
+    "code": "20",
+    "stock": 5
+  }
+]
